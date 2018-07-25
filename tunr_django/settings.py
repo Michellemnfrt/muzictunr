@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-LOGIN_REDIRECT_URL = ''
+LOGIN_REDIRECT_URL = 'artist_list'
 
 # Application definition
 
